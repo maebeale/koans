@@ -1,0 +1,2 @@
+def df
+assert_equal 201, 100.object_id
